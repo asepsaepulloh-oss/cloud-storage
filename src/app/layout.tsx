@@ -3,7 +3,7 @@ import { Metadata } from 'next';
 import { Providers } from '@/components/Providers';
 
 export const metadata: Metadata = {
-  title: 'JemPH Cloud',
+  title: 'Louiv Cloud',
   description: 'Personal Cloud Storage',
   icons: {
     icon: '/favicon.ico',
