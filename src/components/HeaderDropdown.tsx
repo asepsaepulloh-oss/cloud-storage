@@ -39,7 +39,7 @@ export function HeaderDropdown() {
             <Menu.Item>
               {({ active }) => (
                 <a
-                  href="https://t.me/JemPH"
+                  href="https://t.me/louivts"
                   target="_blank"
                   rel="noopener noreferrer"
                   className={`${
@@ -54,7 +54,7 @@ export function HeaderDropdown() {
             <Menu.Item>
               {({ active }) => (
                 <a
-                  href="https://github.com/JemPH"
+                  href="https://github.com/asepsaepulloh-oss"
                   target="_blank"
                   rel="noopener noreferrer"
                   className={`${
